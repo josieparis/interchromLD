@@ -1,6 +1,6 @@
 # interchromLD
 
-## Methods and scripts for creating and plotting inter-chromosomal linkage
+## Methods and scripts for creating inputs and plotting inter-chromosomal linkage
 
 #### Make the interchr linkage LD pairwise info from plink:
 
